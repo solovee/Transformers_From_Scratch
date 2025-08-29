@@ -1,0 +1,1 @@
+projeto de Transformers from scratch para tradução simples de inglês para português, 1M frases.
